@@ -24,7 +24,10 @@ button {
     border-radius: 17px;
 }
 
-
+.urls{
+    padding-left: 8%;
+    font-size: 27;
+}
 button:active {
 
 
